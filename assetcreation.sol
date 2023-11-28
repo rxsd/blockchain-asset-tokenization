@@ -1,7 +1,7 @@
-// SPDX-License-Identifier: MI
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract AssetTokenization {
+contract AssetCreation {
 
     struct Asset {
         uint id;
